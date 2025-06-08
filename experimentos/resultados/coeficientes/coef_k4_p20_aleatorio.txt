@@ -1,0 +1,7 @@
+# Coeficientes calibrados
+# KEYSZ=4 PLSZ=20 Tipo=aleatorio
+# R²=0.945686
+# a (cmp), b (moves), c (calls)
+1.017941224e-03
+-1.086495908e-02
+2.184165039e-01

@@ -1,0 +1,17 @@
+RESUMO DO EXPERIMENTO
+Data: Sun May 25 17:01:54 -03 2025
+
+Configuração FIXA:
+  KEYSZ = 4 bytes
+  PLSZ = 20 bytes
+
+Variação:
+  Tamanho do vetor: 1000 a 20000 (40 pontos)
+
+Coeficientes calibrados (μs):
+
+Tipo: aleatorio
+  a = 1.017941224e-03
+  b = -1.086495908e-02
+  c = 2.184165039e-01
+  R² = 0.945686
