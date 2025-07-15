@@ -54,17 +54,15 @@ O projeto inclui análise experimental dos coeficientes de custo através de:
 - Regressão linear para validação do modelo teórico
 - Comparação entre curvas real e modelo para algoritmo Quicksort
 
-## 🚀 Como Executar
+🚀 Como Executar
 
-1. **Compilação**:
-```bash
-g++ -o ordenador_universal main.cpp [outros_arquivos.cpp]
-```
+Compilação:
 
-2. **Execução**:
-```bash
-./ordenador_universal [arquivo_entrada.txt]
-```
+bashmake all
+
+Execução:
+
+bash./ordenador_universal [arquivo_entrada.txt]
 
 3. **Formato do Arquivo de Entrada**:
 ```
