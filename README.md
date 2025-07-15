@@ -54,15 +54,17 @@ O projeto inclui análise experimental dos coeficientes de custo através de:
 - Regressão linear para validação do modelo teórico
 - Comparação entre curvas real e modelo para algoritmo Quicksort
 
-🚀 Como Executar
+## 🚀 Como Executar
 
-Compilação:
+1. **Compilação**:
+```bash
+make all
+```
 
-bashmake all
-
-Execução:
-
-bash./ordenador_universal [arquivo_entrada.txt]
+2. **Execução**:
+```bash
+./ordenador_universal [arquivo_entrada.txt]
+```
 
 3. **Formato do Arquivo de Entrada**:
 ```
@@ -109,4 +111,4 @@ Universidade Federal de Minas Gerais
 
 ---
 
-*Projeto desenvolvido em maio de 2025 como Trabalho Prático 1*
+*Projeto desenvolvido em maio de 2025 como Trabalho Prático 1 de Estrutura de Dados*
